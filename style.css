@@ -294,7 +294,8 @@ mark{
                     place-items: center;
                     padding: 0;
                     & .menuFoots {
-                        gap: 0;
+                        gap: 1rem;
+                        margin: 0.25rem;
                     }
                     & .logouser {
                         margin-top: 13px;
